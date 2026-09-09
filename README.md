@@ -5,9 +5,9 @@
 **Download the latest build of WingletReader.**
 A local-first desktop speed-reading application for Windows.
 
-**Early alpha — v0.2.0-alpha.1**
+**Early alpha — v0.2.1-alpha.1**
 
-### ➜ [**Download the latest release**](https://github.com/winglet-stack/WingletReader-Releases/releases/latest)
+### ➜ [**Download the latest release**](https://github.com/winglet-stack/WingletReader-Releases/releases)
 
 </div>
 
@@ -64,14 +64,14 @@ For the full feature tour, screenshots, architecture, and source, see the
 
 ### 1. Download the installer
 
-Go to the **[latest release](https://github.com/winglet-stack/WingletReader-Releases/releases/latest)**
+Go to the **[latest release](https://github.com/winglet-stack/WingletReader-Releases/releases)**
 and download the file named:
 
 ```
 WingletReader-<version>-Setup.exe
 ```
 
-For example: `WingletReader-0.2.0-alpha.1-Setup.exe`. The other files on the
+For example: `WingletReader-0.2.1-alpha.1-Setup.exe`. The other files on the
 release page (`latest.yml`, `.blockmap`) are used by the built-in updater — you
 do not need to download them.
 
@@ -167,7 +167,8 @@ uninstalling.
 
 ## Latest release
 
-**v0.2.0-alpha.1** — the first official public alpha.
+**v0.2.1-alpha.1** — EPUB and Winglet Book imports, reading stats, goals, and
+stricter progress integrity.
 
 See **[CHANGELOG.md](CHANGELOG.md)** for what changed in this and every previous
 release, or browse the
